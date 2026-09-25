@@ -2,11 +2,11 @@ Package: hello-world
 Version: 1.0.0
 Architecture: all
 Maintainer: Danny <alguien.com>
-Filename: pool/main/h/hello-word/hello-word.deb
+Filename: apt-repo/pool/main/hello-word.deb
 Size: 816
-MD5sum: 05cff7d0559f0292594f8c85a493eb2d
-SHA1: 2fd11a201b4305bc049ad6f560646bd3e59c37ce
-SHA256: bf24d2790374d3da83b1a63ca4d4030e422872c30f548feec9f59bf9211bbf6c
+MD5sum: 33b6a9ee2814012a11c332570e66b02e
+SHA1: a778af28426e72c5fa92c01469e61209239cc2ef
+SHA256: 2aeeb23a8456b43e032ad65c8cad13e7156c0e631180b47114e6af7f8860bc51
 Section: utils
 Priority: optional
 Description: Un simple programa Hello World
