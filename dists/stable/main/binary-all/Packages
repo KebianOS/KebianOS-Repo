@@ -1,0 +1,14 @@
+Package: hello-world
+Version: 1.0.0
+Architecture: all
+Maintainer: Danny <alguien.com>
+Filename: pool/main/h/hello-word/hello-word.deb
+Size: 816
+MD5sum: 05cff7d0559f0292594f8c85a493eb2d
+SHA1: 2fd11a201b4305bc049ad6f560646bd3e59c37ce
+SHA256: bf24d2790374d3da83b1a63ca4d4030e422872c30f548feec9f59bf9211bbf6c
+Section: utils
+Priority: optional
+Description: Un simple programa Hello World
+ Un pequeño paquete Debian que muestra un mensaje de saludo.
+

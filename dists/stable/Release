@@ -1,0 +1,7 @@
+Origin: KebianOS
+Label: KebianOS
+Suite: stable
+Codename: stable
+Architectures: all
+Components: main
+Description: Repositorio APT de KebianOS
