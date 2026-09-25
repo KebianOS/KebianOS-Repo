@@ -3,10 +3,10 @@ Version: 1.0.0
 Architecture: all
 Maintainer: Danny <alguien.com>
 Filename: pool/main/hello-word.deb
-Size: 816
-MD5sum: 33b6a9ee2814012a11c332570e66b02e
-SHA1: a778af28426e72c5fa92c01469e61209239cc2ef
-SHA256: 2aeeb23a8456b43e032ad65c8cad13e7156c0e631180b47114e6af7f8860bc51
+Size: 1012
+MD5sum: fdcd495d3aca913382f1c03019131c60
+SHA1: dff6010f07160899749bb1644c6ec2e66cc881e5
+SHA256: 3d6856c28adf0e04c1d1a37967667334a11aa63ee3d82a1dd1f3e981cdac6670
 Section: utils
 Priority: optional
 Description: Un simple programa Hello World
