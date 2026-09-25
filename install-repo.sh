@@ -40,12 +40,3 @@ echo
 echo "========================================"
 echo "Repositorio KebianOS instalado."
 echo "========================================"
-echo
-echo "Puedes buscar paquetes con:"
-echo
-echo "    apt search hello-world"
-echo
-echo "Y puedes instalarlos con:"
-echo
-echo "    apt install hello-world"
-echo
