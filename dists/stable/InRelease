@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: all
+Codename: stable
+Components: main
+Date: Fri, 25 Sep 2026 02:11:39 +0000
+Description: Repositorio APT de KebianOS
+Label: KebianOS
+Origin: KebianOS
+Suite: stable
+MD5Sum:
+ 69cb8a18330d8043fb97aee20acf45df              179 Release
+ 8dc326d08dd3f80c92ded8411f984f14              433 main/binary-all/Packages
+ b36f5c2e48d46ac36ee02bd7c3c3ea81              350 main/binary-all/Packages.gz
+SHA1:
+ f3b62eb52cf8a1f42baaaaa85db624f765f4162b              179 Release
+ 8902e6e105bbb0e3f82ccfcbb8f6713941aad871              433 main/binary-all/Packages
+ feb56fa2a058a8fc7372d04e7ca92b0cca85371c              350 main/binary-all/Packages.gz
+SHA256:
+ 70b192d2b07b08b39b4884019cd6b24e99dc0bd63f11f9c6ac1d5ce664da28da              179 Release
+ b372d5230c2d9e29a691a00dee1e8c878997198c114c6269c69e6748902a9cff              433 main/binary-all/Packages
+ 19c6607be34863f31a5263686e99a1056efde00f020e735a15f389d492cefd6a              350 main/binary-all/Packages.gz
+SHA512:
+ ea2fdac030b779486c31c199651e04e594467baedb97eb97f16ddf514856665d3c8f3950c4e16100f10a464d04da1e3fb34611a0b45fcd2dd7143af05a01eac7              179 Release
+ 489740e2f2d6ad8feb5f58bd9aa68e8fdd2ef6b6214aa817166c8d7b4a2478ac61b1ea5611278928119d4e8e97ff17303cb916567b36f5ed1c39adeecbdb2585              433 main/binary-all/Packages
+ ec096cc0c6c9321fa66023ba5787a586e69b7d2a6b3d065d588768fd814c72dad30e8430c8ec19477f3fc5b3f7ea484ea98d0b51e4841f8f5c09fabc1b43e82e              350 main/binary-all/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEyD5nw1q4u1BJ8pIhgzpt4+BC2dAFAmq12FsACgkQgzpt4+BC
+2dDN0A/+NQtSkkHNQanNvCUPVCW88MYJqrUVoEq1q8hipWXhXoBl1BAMCTbAZHGm
+S/3I2kfFG26aopmuu2IEIYQtVHiFEQUqeWBF5EAh2cSSG6ahQBQsPyj0Z93T8FEs
+28nsEiy4wRfM024ZQ6d532yHlx4ozn0rMd4RJhTmhQ4iJD8dNSLS4HUPjhDIS+2D
+IArly5xXtu++W3W33WJaFIsxO8c54IbBIOZKxrpTn99XM+Zy1tgq0a3e8iEc08oo
+l7bNsW77B9hSC6l3NGCrOIhXYgsWsdQ2F4RzWIzAGuVpOb/tpjmIiolQKNdzYw+C
+uORHlYA6sGaxS+JR5wUFWbpWyknZ0OIhgwZy177WajL+3vgNDddzOn1/rb6Zwze0
+VhWbmde43ha5yCFOaiW5ush2TGL1U23ErV9TUp3LluvrZ70CeDF9jSmaM6Kg7gRn
+4Of+Wm4LBnL4Mk/eRNW0qw4UyPtS4wQNJaO0mplJ6zEDwQVpOwr94DihvZ773E0v
+xfRNIr2pXwL88nuFLQssi4YPSfTtxeyZ3z0BmjTZ5y2rLDVrRph+mUG4o7rhfkmF
++6b9ECJrxaBtuTyOoVzNyRSRrTCwiXZFMMuE3fyZExL6iqE7kMjvaVEgIBefC9Pv
+BVF8Hfshbsi/MgJ4jTuBHsWK1eU+DMqsvyj1RHqZ3tX3lm/fGvE=
+=yHkY
+-----END PGP SIGNATURE-----

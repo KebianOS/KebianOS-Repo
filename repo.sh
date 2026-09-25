@@ -2,7 +2,6 @@
 
 set -e
 
-REPO_DIR="apt-repo"
 DIST="stable"
 COMPONENT="main"
 ARCH="all"
@@ -20,12 +19,12 @@ gpg --armor \
 echo "[1/5] Generando Packages y Packages.gz..."
 
 dpkg-scanpackages \
-    "$REPO_DIR/pool" \
+    "pool" \
     /dev/null \
-    > "$REPO_DIR/dists/$DIST/$COMPONENT/binary-$ARCH/Packages"
+    > "dists/$DIST/$COMPONENT/binary-$ARCH/Packages"
 gzip -9 -c \
-    "$REPO_DIR/dists/$DIST/$COMPONENT/binary-$ARCH/Packages" \
-    > "$REPO_DIR/dists/$DIST/$COMPONENT/binary-$ARCH/Packages.gz"
+    "dists/$DIST/$COMPONENT/binary-$ARCH/Packages" \
+    > "dists/$DIST/$COMPONENT/binary-$ARCH/Packages.gz"
 
 echo "[2/5] Generando Release..."
 
@@ -37,8 +36,8 @@ apt-ftparchive \
     -o APT::FTPArchive::Release::Architectures="$ARCH" \
     -o APT::FTPArchive::Release::Components="$COMPONENT" \
     -o APT::FTPArchive::Release::Description="Repositorio APT de KebianOS" \
-    release "$REPO_DIR/dists/$DIST" \
-    > "$REPO_DIR/dists/$DIST/Release"
+    release "dists/$DIST" \
+    > "dists/$DIST/Release"
 
 
 
@@ -48,8 +47,8 @@ gpg --batch \
     --yes \
     --local-user "$GPG_KEY" \
     --clearsign \
-    --output "$REPO_DIR/dists/$DIST/InRelease" \
-    "$REPO_DIR/dists/$DIST/Release"
+    --output "dists/$DIST/InRelease" \
+    "dists/$DIST/Release"
 
 
 echo "[4/5] Generando Release.gpg..."
@@ -58,8 +57,8 @@ gpg --batch \
     --yes \
     --local-user "$GPG_KEY" \
     --detach-sign \
-    --output "$REPO_DIR/dists/$DIST/Release.gpg" \
-    "$REPO_DIR/dists/$DIST/Release"
+    --output "dists/$DIST/Release.gpg" \
+    "dists/$DIST/Release"
 
 
 
