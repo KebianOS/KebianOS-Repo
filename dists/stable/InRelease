@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Fri, 25 Sep 2026 00:57:32 +0000
+Description: Repositorio APT de KebianOS
+Label: KebianOS
+Origin: KebianOS
+Suite: stable
+MD5Sum:
+ 8389c4a631dd74af5e7870e1e44f6bee              181 Release
+ f9cf0c54d994c68cb7d2af34ac0b4502              446 main/binary-all/Packages
+SHA1:
+ 88b84227d80b8735d5832543a0bc30e6345458eb              181 Release
+ 25346953c97180c4e9bfbe920b522ce2f8e86237              446 main/binary-all/Packages
+SHA256:
+ 4eb2744f1067eb19343e6aca23af3bda3246ddd5141ccbb4db833d8b703dc861              181 Release
+ a0f5bd5a5fbba2223bdd0ad1a3fd94b805c51c54e33d1e1e3350082b653c221e              446 main/binary-all/Packages
+SHA512:
+ 09fbfd27925237913f10a78b108686efe0fb26d96c22ee9df15c126920057373e31653466bca8755090315d48f21bdd83ce5798084b1be5a598de382d363ed9e              181 Release
+ b680a1af58fa03f5c55fb87c032181178c8206ea9cb6cec7dd29e14e60ec50fd012cd117894c61cf5ba2c57e7813533200cea0b6de3b55c2a08b01416f8460a6              446 main/binary-all/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEyD5nw1q4u1BJ8pIhgzpt4+BC2dAFAmq1yjEACgkQgzpt4+BC
+2dBDxRAAlMh0GCmzFmJxhh8Ao8NcffyXJe92U/eNv+eu6M5aTzFq3EZGoZyqSuCS
+lteW7nHBdCVPkhtI5ZqqGJ7zoSkc5qxvpOi+bHZnkFYeSXmgjgz6JvVwHfxd6C9Y
++2jEMvgTPfoIP1wYQYd8kw1IfQsvFXZ3BTfUl++Hb1IqGp8hQ5O0jwLtSewQDCD9
+tl+m+hNa9OBUa44x5m4XfZ7G21pIK2B7fSLM3anT3xtSPUhb+pFJGlbDebNG0+S/
+nKD5kJFEB3uNkS7KFnU6ZApKF6rVWV5svsIng05T8NnvrLZexYK6gnQkXi4uybjr
+sfrdfRv/0g8CxWut9CkyUvzzhQpp4+s/M3C8O9EJ1AQI8pdzBKCiisEQBUieJC2R
+repKh8wWIeq4BUuTYWt3C+IluNEtoUkX9BK4fQJsvXDN4LYTMnQ4Wjot09A5FIhG
+zwJ3gXM5sT6PV9+ac7XOvS7qxNfaMSJkd0VJxPg/FU2VH89r6oN7BvtDnbP56jnb
+1m6Gmwc36pMU31X+6qCd0fM+2AB9GUXPkginwV6b4kWWxR+xXEcYFK61aRxrgsq+
+h4jOlpasrDGGnts58emCxTJFMtmVgx24XxkVuFswoktzYVzVZDp0gxvAYBVaQpNA
+ti6Jt5hKLCQ5b9u0ARNznFwb+c2hxRxkpMtRHYw6j0rexb86NTE=
+=T1R2
+-----END PGP SIGNATURE-----
