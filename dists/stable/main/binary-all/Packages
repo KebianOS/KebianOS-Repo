@@ -12,3 +12,20 @@ Priority: optional
 Description: Un simple programa Hello World
  Un pequeño paquete Debian que muestra un mensaje de saludo.
 
+Package: systemd-resolved-gui
+Version: 0.1.0-1
+Architecture: all
+Maintainer: Local package <danny@localhost>
+Depends: python3 (>= 3.10), python3-gi, gir1.2-gtk-3.0, policykit-1, pkexec, systemd-resolved, coreutils
+Filename: pool/main/systemd-resolved-gui_0.1.0-1_amd64.deb
+Size: 7586
+MD5sum: 7e5b46af9d3aadfb30356ea8486e14fe
+SHA1: 8b46eb74e8840a990a086ed97d1fc4283b960f51
+SHA256: 3bcf82bc7c7fa60aefce3b24e0034e3cf5ed23bac3de5d1daba597ff9815de9e
+Section: admin
+Priority: optional
+Description: GTK editor for systemd-resolved configuration
+ A small graphical editor for the systemd-resolved configuration file.
+ It keeps an initial restore point and requests administrator authorization
+ only when saving or restoring the system configuration.
+
