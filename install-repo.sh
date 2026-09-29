@@ -39,7 +39,7 @@ chmod 644 "$KEYRING"
 echo "[2/3] Configurando repositorio APT..."
 
 cat > "$SOURCES" <<EOF
-deb [signed-by=$KEYRING] $REPO_URL stable main
+deb [arch=all signed-by=$KEYRING] $REPO_URL stable main
 EOF
 
 echo "[3/3] Actualizando índices APT..."
