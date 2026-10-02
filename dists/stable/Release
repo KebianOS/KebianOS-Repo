@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Fri, 02 Oct 2026 01:46:27 +0000
+Date: Fri, 02 Oct 2026 01:47:22 +0000
 Description: Repositorio APT de KebianOS
 Label: KebianOS
 Origin: KebianOS
 Suite: stable
 MD5Sum:
- 914485a805262045cb93822ac2f1862a              179 Release
+ aa0707a0c9e32bbbb53ef53628417acb              179 Release
  fdf2ed448904722878673b20da7b52ca             1164 main/binary-all/Packages
- 2aedd2153540dcf0a8038fa67bafbee8              696 main/binary-all/Packages.gz
+ 8b594ad54a88986d964235b2394f69ff              696 main/binary-all/Packages.gz
 SHA1:
- 3cffe9ee0464cbcf665ddaedf20d218ff9232333              179 Release
+ 4d28a7eb70a9940581cae992a19906171ae9b7e6              179 Release
  bbc5a8db643e9094062c3b22be717d4caaf3b062             1164 main/binary-all/Packages
- ad4fa7c5a6f58b79f2ff713c55a98768aa025f7c              696 main/binary-all/Packages.gz
+ 92fd5f41763e7d8c9c0db1d26573a9f68a297746              696 main/binary-all/Packages.gz
 SHA256:
- a324068cb1d315d31543b9aff0aa6664b786d2c4aaedc235aaf7003706e9cba0              179 Release
+ fbea3af1c0120d022beb3427c14e48c50354f10b1016d09b36a9c600f9590815              179 Release
  8f24087721883038cba44a9540a33dc958195c6083acb0938ba9ed2a58ee250a             1164 main/binary-all/Packages
- 4c95dffc0cd8fc5753565aea027262b90c88f9a8ea0919459075c7d8c227f5d2              696 main/binary-all/Packages.gz
+ 1ead7e6e2ab9b4252f001538825b72974d0ef6f07b9c7a519148b8dc68699be0              696 main/binary-all/Packages.gz
 SHA512:
- 2aa6303dac46ff5e8ed82748d190ea64cbc63feffdd6c113e1be52dec44298c4f67916c3dc45a7db0a2ba25075d3b23953b0689a9227ace23abd7a2dd425cc9b              179 Release
+ 2c57d7b01d9b8b772cd43c840f220712fd3481781531a005919b1b928d70844edebd6d9611036e9314c9c9f885fceab7685f32e70f323d425b588c56cd8b786c              179 Release
  44c2b0386fc550977509b9b2a3149607e7bd86f718fbe4cbbc0bc1b3955f187d87de1251352f4abfac34c3a96bc8e58783aed09d7f39b258f783ec630986c2c9             1164 main/binary-all/Packages
- 087c4fc50a84ed724a80efefeaf4e8218d5721aec9fe964cd81f4cc4d0f590407b292657b0dbeeee2948346cd2e798d135c48d1e88f57e0e1a09783dc705de82              696 main/binary-all/Packages.gz
+ 481eba129ab0b99621681135f62f0852beaa2b174e1f6c6822d4c1d919dbe8b6319d705a013e205e0dceab200a05af5ec515ca835dd3248d1e3d3039491333ed              696 main/binary-all/Packages.gz
