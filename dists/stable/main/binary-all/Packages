@@ -18,10 +18,10 @@ Architecture: all
 Maintainer: Local package <danny@localhost>
 Depends: python3 (>= 3.10), python3-gi, gir1.2-gtk-3.0, pkexec, systemd-resolved, coreutils
 Filename: pool/main/systemd-resolved-gui_0.1.1-1_amd64.deb
-Size: 7804
-MD5sum: eca8f50348ad5b31d7a936cad6aaceb1
-SHA1: 02a5842df524b922db00209dfd9f15502f3ad36e
-SHA256: f827a0628f4024d3adf7f2cea1971fef412d09cbcfc756c8d711c7b4a50ff77c
+Size: 7906
+MD5sum: fb979cd2628c84a5fbe79a9797adfd74
+SHA1: af5d3ab8c4a27158aa20ffaccd7369821060f801
+SHA256: ce98f420ede96ca4484d66f7e205255a336ab6bccdc5851532b715c6b691b1e5
 Section: admin
 Priority: optional
 Description: GTK editor for systemd-resolved configuration
