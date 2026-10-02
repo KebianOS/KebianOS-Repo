@@ -63,7 +63,7 @@ gpg --batch \
 
 
 echo "[5/5] Subiendo al repo..."
-sleep 10
+sleep 5
 git add .
 git commit -m "KebianOS"
 git push
