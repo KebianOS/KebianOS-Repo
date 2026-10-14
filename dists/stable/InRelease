@@ -4,38 +4,38 @@ Hash: SHA512
 Architectures: all
 Codename: stable
 Components: main
-Date: Sun, 04 Oct 2026 17:00:12 +0000
+Date: Wed, 14 Oct 2026 02:51:14 +0000
 Description: Repositorio APT de KebianOS
 Label: KebianOS
 Origin: KebianOS
 Suite: stable
 MD5Sum:
- 4fec4e3cfcd8618e8180674e7c59f2e2              179 Release
+ eece9c020aefcd51daf59cde032cc08b              179 Release
  fdf2ed448904722878673b20da7b52ca             1164 main/binary-all/Packages
- 68e5add300a743ee639a353a6e223fbf              696 main/binary-all/Packages.gz
+ 2ab0d754a5c6a375ed4279ad8215e45d              696 main/binary-all/Packages.gz
 SHA1:
- c9ff98d0a53ebcbef72142202e3e2c91d1c23d1f              179 Release
+ 0c1debb68482a622488740d0d3f473da962dbae1              179 Release
  bbc5a8db643e9094062c3b22be717d4caaf3b062             1164 main/binary-all/Packages
- c5b6ce186a5d31a42da3de69821722132525a386              696 main/binary-all/Packages.gz
+ bb4aab1d2f6c291084da5810974d8b34c734e5cf              696 main/binary-all/Packages.gz
 SHA256:
- bc8e1c1acee6f96fe355689a23dff30218843ae8332b36824098c0d274c48af2              179 Release
+ d43ef8f56208cad74a667822e09e63cf0d76b2d495879958098c91a5b67737db              179 Release
  8f24087721883038cba44a9540a33dc958195c6083acb0938ba9ed2a58ee250a             1164 main/binary-all/Packages
- 8fa8e897356b6fc03d7e461ff987d69a1f3ca6321dd0bf3543071e59b0e6a8d4              696 main/binary-all/Packages.gz
+ 52039a41520a345b174dd832e1075d3819072fe8ad70c555d73891116e2eac00              696 main/binary-all/Packages.gz
 SHA512:
- cd0912402e94cddea4a16a3373b7c00e61f7ab3f8d5b1e7e3214318ad33f5a18c252996e04ccd10bba5b516023b0afc0b42ad596cda46cc23cde347671386fdc              179 Release
+ 441cb5bc5633ca7b7652eb19d794802066bf113d3f215db03781145f70c59fd17e0f6a13db0c38cd2dc0d053ea651e30fa386d1b5eb69c5d04dedef423dd89e8              179 Release
  44c2b0386fc550977509b9b2a3149607e7bd86f718fbe4cbbc0bc1b3955f187d87de1251352f4abfac34c3a96bc8e58783aed09d7f39b258f783ec630986c2c9             1164 main/binary-all/Packages
- 2f789abd29cb701a87d2419f63060f144a8fda098fba25b8dc92294305fc8b3125e06424163948308d86b8ed30a1da599584f8fc3027f6ffb090b0d3413daa3c              696 main/binary-all/Packages.gz
+ 6ae82b43f2dad3f0dae165aa56526e4c7185ca79c808aaa9f26043d4fb5ece1ef78f6bc4032151c97ef0f8eb3b863164ce3d261ca76b201fc0323c350fb2701c              696 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE9VW+gnrrUg2hV2S2AjY6C95JoLMFAmrChhwACgkQAjY6C95J
-oLMi2wv+KLpGLXfOc/0ZIM+cMVRWA5f06/Hw/F8pJSwfkpZDga11fsLkU4y2gHOR
-ZjftErIV0g4RQDOzK0CstMa8lEPzGgGhuJUUZlt//qYkFUjIstQkL9V1Be3WOvTL
-gZ4eOtm/ns9qUATFhX1fiRb7d6fAhcaVYzgLgiTvyxx8FLbdXmJFHPdQAPW9/Fmy
-I7MZ89MK3ZPSZ9sHLs+7BwJcbbZFHDimLKaivxXATDlaB6R+yPLwK8M6bUprbbBa
-WRNawq6u4Ufgo/RlWlixoqmqP+J99sUylPfh08CkVSxPQtHpb+zf10iAuiy2v/ga
-TCM7cuyGhqF+0pY1Akh4Y/gfA3fuHs75mvIdWuM4TwbU9fCyDF7BLysjqrFwqW/9
-lRFE1VrXy9XCAqA7Q15NT2C7qlrTLt21yGwynw4AZJK1O3nInih+b0FXXP6IyfyV
-wq+mJnDtNeKGOidVob+w0Z25m87KTowkgXOHwCeAm6XmxxOgi4o3L74St2UeCTWF
-7SLQX+a+
-=9E5J
+iQGzBAEBCgAdFiEE9VW+gnrrUg2hV2S2AjY6C95JoLMFAmrO7iIACgkQAjY6C95J
+oLPbkgwAyZtnVYJF2dX2lrjrpAR1DFWWa/FZtvP35C3QKhu2rhJZqFRyLxapP7RP
+jMqaUBSJgaKGlLZSZ3k7vqXxy1VykDqgLUvzRa059RYUTViGde/0Sl+S9WmUGf60
+dDuXZFwYkmM3TQHgi7e+GxH80sMbOWLf4Vk2AcBk7cJRekZnTFyVfWbtuORmUQSa
+mDUcFEr3VJYqm7RHT6B6udGxhwVq0huTP1groSaLXvTvS1LYM3DrCyQu+S+4Y60Y
+SN5p9X5H5srhMTRt58EkiTf1glfDHqHwFXg374w2tNIKPnNKpEn3ok2MeGcmEzSa
+S9cPmBDF3JFK2jC6kGSc1ZjJBFi15GGlLiLETe05MMTHHvXuZvkLTne4bJF2vz8E
+OBqh8j3OVJOWNxJlg037PzdKKd8rQ2W6t8+0QMoPc0v2Mj0DFKe12j/TRUOKq6nz
+X1Uyp2QuegKXOKAaBg9vyCppOlsfNaFCeKtQSNMJcD1qyeAWvLFeE6GklzkqqZXn
+2dV7hJ1t
+=+6xD
 -----END PGP SIGNATURE-----
