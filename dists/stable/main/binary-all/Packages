@@ -1,16 +1,21 @@
-Package: hello-world
-Version: 1.0.0
+Package: kebianos-meta-codecs
+Version: 1.0
 Architecture: all
-Maintainer: Danny <alguien.com>
-Filename: pool/main/hello-word.deb
-Size: 1012
-MD5sum: fdcd495d3aca913382f1c03019131c60
-SHA1: dff6010f07160899749bb1644c6ec2e66cc881e5
-SHA256: 3d6856c28adf0e04c1d1a37967667334a11aa63ee3d82a1dd1f3e981cdac6670
-Section: utils
+Maintainer: Equivs Dummy Package Generator <danny@danny-hplaptop14ck0xxx>
+Installed-Size: 9
+Depends: gstreamer1.0-plugins-ugly, gstreamer1.0-plugins-bad, gstreamer1.0-libav, libdvdread8, libdvdread8t64, ttf-mscorefonts-installer, unrar, libavcodec-extra, ffmpeg, vlc
+Filename: pool/main/kebianos-meta-codecs_1.0_all.deb
+Size: 2392
+MD5sum: 2b51a656b9416688ce32bc50874820ee
+SHA1: 7fbe35d1842c435f2459ed77877b4e8de9758bf1
+SHA256: 8e8581dcf8d57d486e61deb0e378a92fa1ca4f67c3e4c93045e27a5ef47042a8
+Section: misc
 Priority: optional
-Description: Un simple programa Hello World
- Un pequeño paquete Debian que muestra un mensaje de saludo.
+Multi-Arch: foreign
+Description: <short description; defaults to some wise words>
+ long description and info
+ .
+ second paragraph
 
 Package: systemd-resolved-gui
 Version: 0.1.1-1
